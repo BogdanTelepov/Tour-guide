@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Tour Guide Venice</string>
+    <string name="intent_extra_place_title">PLACE_TITLE</string>
+
+    <!-- categories-->
+    <string name="tab_text_cafe">Cafe</string>
+    <string name="tab_text_restaurant">Restaurant</string>
+    <string name="tab_text_bar">Bar and Lounge</string>
+    <string name="tab_text_coffee_and_tea">Coffee and Tea</string>
+
+    <!-- cafe titles-->
+    <string name="cafe_title1">I Bacaro De Bischeri</string>
+    <string name="cafe_title2">Cocaeta - Non le solite Crepes</string>
+    <string name="cafe_title3">Baci and Pasta</string>
+    <string name="cafe_title4">Arcicchetti Bakaro</string>
+
+    <!--cafe address -->
+    <string name="cafe_address1">Ruga dei Oresi, 57, 30125 Венеция Италия</string>
+    <string name="cafe_address2">Fondamenta San Giobbe 549, 30121 Венеция Италия</string>
+    <string name="cafe_address3">Castello 5902/A Campo Santa Marina, 30122 Венеция Италия</string>
+    <string name="cafe_address4">Campo Dei Tolentini 183/a, 30135 Венеция Италия</string>
+
+    <!-- cafe type kitchen-->
+    <string name="type_cafe1">Итальянская, Тосканская, Центрально-итальянская, Современная, Уличная еда.</string>
+    <string name="type_cafe2">Итальянская, Современная.</string>
+    <string name="type_cafe3">Итальянская, Фастфуд, Уличная еда, Средиземноморская, Здоровая.</string>
+    <string name="type_cafe4">Итальянская, Бар, Винный бар, Северно-итальянская.</string>
+
+    <!-- cafe work time-->
+    <string name="time_cafe1">11:00 AM - 8:30 PM</string>
+    <string name="time_cafe2">12:30 AM - 3:30 PM</string>
+    <string name="time_cafe3">12:00 PM - 6:00 PM</string>
+    <string name="time_cafe4">11:00 AM - 10:00 PM</string>
+
+    <!-- cafe prices-->
+    <string name="price_cafe1">531 KGS - 1 593 KGS</string>
+    <string name="price_cafe2">265 KGS - 1 327 KGS</string>
+    <string name="price_cafe3">619 KGS - 796 KGS</string>
+    <string name="price_cafe4">731 KGS - 813 KGS</string>
+
+    <!-- cafe website-->
+    <string name="web_cafe1">http://www.ibacarodebischeri.it</string>
+    <string name="web_cafe2">http://www.facebook.com/cocaeta</string>
+    <string name="web_cafe3">http://www.baciepasta.it</string>
+    <string name="web_cafe4">http://www.facebook.com/ArcicchettiBakaro</string>
+
+    <!--cafe phone numbers-->
+    <string name="phone_cafe1">+39 041 458 7173</string>
+    <string name="phone_cafe2">+39 041 458 6871</string>
+    <string name="phone_cafe3">+39 041 564 7400</string>
+    <string name="phone_cafe4">+39 347 245 6144</string>
+    <string name="kitchen_text_view">Кухня:</string>
+
+
+    <!--restaurant titles -->
+    <string name="restaurant_title1">Wistèria Restaurant</string>
+    <string name="restaurant_title2">Ristorante La Piazza</string>
+    <string name="restaurant_title3">Ristorante Alle Corone</string>
+    <string name="restaurant_title4">Riviera</string>
+
+    <!--restaurant address -->
+    <string name="restaurant_address1">San Polo 2908, 30125 Венеция Италия</string>
+    <string name="restaurant_address2">Sestiere San Marco 615, 30124 Венеция Италия</string>
+    <string name="restaurant_address3">Campo della Fava 5527, 30122 Венеция Италия</string>
+    <string name="restaurant_address4">Fondamenta Zattere Al Ponte Longo, 1473, 30123 Венеция Италия</string>
+
+    <!--restaurant type kitchen-->
+    <string name="restaurant_type_kitchen1">Морепродукты, Средиземноморская, Европейская, Итальянская.</string>
+    <string name="restaurant_type_kitchen2">Итальянская, Морепродукты, Средиземноморская.</string>
+    <string name="restaurant_type_kitchen3">Итальянская, Морепродукты, Средиземноморская, Европейская.</string>
+    <string name="restaurant_type_kitchen4">Итальянская, Морепродукты, Средиземноморская, Европейская, Супы, Международная.</string>
+
+    <!-- restaurant work time-->
+    <string name="restaurant_work_time1">7:00 PM - 10:00 PM</string>
+    <string name="restaurant_work_time2">11:00 AM - 12:00 AM</string>
+    <string name="restaurant_work_time3">7:00 PM - 10:30 PM</string>
+    <string name="restaurant_work_time4">7:00 PM - 10:30 PM</string>
+
+    <!--restaurant prices-->
+    <string name="restaurant_price1">3 508 KGS - 15 785 KGS</string>
+    <string name="restaurant_price2">2 192 KGS - 4 385 KGS</string>
+    <string name="restaurant_price3">3 069 KGS - 5 262 KGS</string>
+    <string name="restaurant_price4">5 262 KGS - 13 155 KGS</string>
+
+    <!--restaurant website-->
+    <string name="restaurant_website1">http://www.wisteria-restaurant.com</string>
+    <string name="restaurant_website2">http://ristorantelapiazza.it</string>
+    <string name="restaurant_website3">http://www.ristoranteallecorone.com</string>
+    <string name="restaurant_website4">http://www.ristoranteriviera.it</string>
+
+    <!--restaurant phone numbers-->
+    <string name="restaurant_phone1">+39 041 524 3373</string>
+    <string name="restaurant_phone2">+39 041 523 1100</string>
+    <string name="restaurant_phone3">+39 041 523 2222</string>
+    <string name="restaurant_phone4">+39 041 522 7621</string>
+
+    <!-- bar title-->
+    <string name="bar_title1">Adagio Caffe and Wine Bar</string>
+    <string name="bar_title2">Dhero’ Cafe and Lounge Bar</string>
+    <string name="bar_title3">Basego</string>
+    <string name="bar_title4">Cantina Arnaldi</string>
+
+    <!-- bar address-->
+    <string name="bar_address1">San Polo 3028, 30100 Венеция Италия</string>
+    <string name="bar_address2">Via Giuseppe Garibaldi 1813, 30122 Венеция Италия</string>
+    <string name="bar_address3">Campo, San Toma 2863, 30125 Венеция Италия</string>
+    <string name="bar_address4">Santa Croce 35 Salizada san pantalon, 30125 Венеция Италия</string>
+
+    <!--bar type kitchen-->
+    <string name="bar_type_kitchen1">Бар, Кафе.</string>
+    <string name="bar_type_kitchen2">Итальянская.</string>
+    <string name="bar_type_kitchen3">Итальянская, Бар, Средиземноморская, Винный бар.</string>
+    <string name="bar_type_kitchen4">Итальянская, Бар, Средиземноморская, Европейская, Винный бар.</string>
+
+    <!--bar work time-->
+    <string name="bar_work_time1">08:00 AM - 11:00 PM</string>
+    <string name="bar_work_time2">11:00 AM - 12:00 PM</string>
+    <string name="bar_work_time3">11:00 AM - 10:30 PM</string>
+    <string name="bar_work_time4">10:00 AM - 12:00 AM</string>
+
+    <!--bar prices-->
+    <string name="bar_price1">438 KGS - 1 315 KGS</string>
+    <string name="bar_price2">678 KGS - 1 678 KGS</string>
+    <string name="bar_price3">702 KGS - 4 385 KGS</string>
+    <string name="bar_price4">870 KGS - 1 920 KGS</string>
+
+    <!--bar website-->
+    <string name="bar_website1">http://www.adagiocaffe.it</string>
+    <string name="bar_website2">https://www.facebook.com/Dhero-Caf%C3%A8-Lounge-Bar-120954288470778</string>
+    <string name="bar_website3">http://www.basego.it</string>
+    <string name="bar_website4">http://www.cantinaarnaldi.com</string>
+
+    <!--bar phone numbers-->
+    <string name="bar_phone1">+39 339 502 7619</string>
+    <string name="bar_phone2">+39 334 806 8587</string>
+    <string name="bar_phone3">+39 041 850 0299</string>
+    <string name="bar_phone4">+39 041 524 4992</string>
+
+    <!--coffee title-->
+    <string name="coffee_title1">Pasticceria Da Bonifacio</string>
+    <string name="coffee_title2">Pasticceria Rizzardini</string>
+    <string name="coffee_title3">Torrefazione Cannaregio</string>
+    <string name="coffee_title4">YogurtCreperia Marie</string>
+
+    <!--coffee address-->
+    <string name="coffee_address1">Calle Dei Albanesi Castello 4237, 30122 Венеция Италия</string>
+    <string name="coffee_address2">Sestiere San Polo 1415 Campiello dei Meloni, 30125 Венеция Италия</string>
+    <string name="coffee_address3">Fondamenta Dei Ormesini Cannaregio 2804 Cannaregio, 30121 Венеция Италия</string>
+    <string name="coffee_address4">Dorsoduro 3488/s, 31123 Венеция Италия</string>
+
+    <!--coffee type kitchen-->
+    <string name="coffee_type_kitchen1">Сладости, выпечка, кофе, чай, лимонады.</string>
+    <string name="coffee_type_kitchen2">Традиционные пончики, забальонцы, круассаны, капучино.</string>
+    <string name="coffee_type_kitchen3">Рановидность кофе, выпечка.</string>
+    <string name="coffee_type_kitchen4">Традиционные блинчики, кофе, чай.</string>
+
+    <!-- coffee work time-->
+    <string name="coffee_work_time1">06:30 AM - 6:30 PM</string>
+    <string name="coffee_work_time2">08:00 AM - 8:00 PM</string>
+    <string name="coffee_work_time3">09:00 AM - 6:00 PM</string>
+    <string name="coffee_work_time4">12:00 PM - 9:00 PM</string>
+
+    <!--coffee prices-->
+    <string name="coffee_price1">175 KGS - 702 KGS</string>
+    <string name="coffee_price2">110 KGS - 620 KGS</string>
+    <string name="coffee_price3">205 KGS - 932 KGS</string>
+    <string name="coffee_price4">184 KGS - 860 KGS</string>
+
+    <!--coffee website-->
+    <string name="coffee_website1">None</string>
+    <string name="coffee_website2">None</string>
+    <string name="coffee_website3">http://www.torrefazionecannaregio.it</string>
+    <string name="coffee_website4">https://www.facebook.com/yogurteriacreperiamarie/?hc_ref=PAGES_TIMELINE</string>
+
+    <!--coffee numbers-->
+    <string name="coffee_phone1">+39 041 522 7507</string>
+    <string name="coffee_phone2">+39 041 522 3835</string>
+    <string name="coffee_phone3">+39 041 716371</string>
+    <string name="coffee_phone4">+39 329 578 8840</string>
+
+</resources>
